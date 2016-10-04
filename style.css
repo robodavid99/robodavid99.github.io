@@ -1,0 +1,9 @@
+body {
+  background-color: deeppink;
+  text-align: center;
+  font-family: "Times New Roman", sans-serif;
+  img {
+    width: 100px;
+  }
+
+}
